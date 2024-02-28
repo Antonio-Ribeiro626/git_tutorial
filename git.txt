@@ -1,0 +1,23 @@
+Steps
+
+1- git init 
+2- git add .
+3- git commit -m 'message of the commit'
+4- git push
+
+Branches
+5-git branch (ver os Branches)
+6- git branch Name of the Branche(Criar Branches)
+7- git checkout banchName (Change branch)
+8- git checkout -b branchName (Create a new branch a change it)
+
+9-git merge branchName (To merge Branch content)
+10- git pull ( to pull it to another branch )
+
+/*- 
+git log (Mostra as informções do commit )
+git log --decorate
+git log --author="author name"
+git shortlog (Mostra os autores e os commits que eles fizeram)
+git shortlog -sn (Mostra o numero de commits e o nome da pessoa que commitou)
+git log --graph ( Mostra em forma grafica o que esta a acontecer nos branches e com as versões ) 
